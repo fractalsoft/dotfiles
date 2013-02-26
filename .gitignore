@@ -1,0 +1,17 @@
+# Ignore backup files (gedit)
+*~
+
+# Ignore swap files
+.*.swp
+
+# Ignore Desktop Services Store (Mac OS)
+.DS_Store
+
+# Ignore Windows thumbnail cache
+Thumbs.db
+
+# Ignore svn files
+.svn
+
+# Ignore .gitconfig
+.gitconfig

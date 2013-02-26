@@ -1,0 +1,4 @@
+[
+  { "keys": ["ctrl+alt+k"], "command": "beautify_ruby" },
+  { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" }
+]
