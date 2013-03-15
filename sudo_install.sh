@@ -5,7 +5,7 @@ sudo aptitude update
 sudo aptitude install build-essential openssl \
   openssh-server openssh-client \
   libreadline6 libreadline6-dev \
-  curl wget \
+  curl wget libcurl4-openssl-dev \
   git git-core subversion gitk \
   zip zlib1g zlib1g-dev p7zip rar unrar \
   libssl-dev libyaml-dev libxslt1-dev \

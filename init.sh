@@ -2,7 +2,7 @@
 
 CURRENT=`pwd`
 SOURCE=.dotfiles
-FILES=".aliases .bash_functions .bash_login .bash_logout .bash_profile .bashrc .gemrc .gitconfig .irbrc .profile .pryrc .railsrc .rvmrc .screenrc .zlogin .zprofile .zshenv .zshrc"
+FILES=".aliases .bash_functions .bash_login .bash_logout .bash_profile .bashrc .curlrc .gemrc .gitconfig .irbrc .profile .pryrc .railsrc .rvmrc .screenrc .zlogin .zprofile .zshenv .zshrc"
 if [ ! -f $SOURCE/.gitconfig ]; then
   cp ~/$SOURCE/.gitconfig.template ~/$SOURCE/.gitconfig
 fi
