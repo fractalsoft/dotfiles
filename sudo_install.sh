@@ -19,7 +19,7 @@ sudo aptitude install build-essential openssl \
   sublime-text gedit gedit-plugins vim \
   chromium-browser lynx elinks-lite \
   postgresql postgresql-client libpq-dev gsql \
-  bash zsh zsh-lovers guake \
+  bash zsh zsh-lovers guake byobu \
   nmap htop mc \
   openjdk-7-jre eclipse eclipse-egit
 
