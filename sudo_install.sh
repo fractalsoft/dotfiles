@@ -19,8 +19,9 @@ sudo aptitude install build-essential openssl \
   sublime-text gedit gedit-plugins vim \
   chromium-browser lynx elinks-lite \
   postgresql postgresql-client libpq-dev gsql \
-  bash zsh zsh-lovers guake byobu \
+  bash zsh zsh-lovers guake terminator screen byobu \
   nmap htop mc \
-  openjdk-7-jre eclipse eclipse-egit
+  openjdk-7-jre eclipse eclipse-egit \
+  libmysql-ruby libmysqlclient-dev
 
 # libmagick++4 libmagickcore4 libmagickcore4-extra
