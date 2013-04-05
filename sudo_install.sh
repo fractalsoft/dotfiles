@@ -11,6 +11,7 @@ sudo aptitude install build-essential openssl \
   libssl-dev libyaml-dev libxslt1-dev \
   sqlite3 libsqlite3-dev sqlitebrowser \
   libxml2-dev libxslt-dev autoconf libc6-dev \
+  libgdbm-dev libffi-dev \
   ncurses-dev libncurses5 libncurses5-dev \
   automake libtool bison \
   pkg-config \
