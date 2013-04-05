@@ -15,3 +15,6 @@ Thumbs.db
 
 # Ignore .gitconfig
 .gitconfig
+
+# Ignore .home_aliases
+.home_aliases

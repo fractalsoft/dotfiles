@@ -86,3 +86,8 @@ alias get='wget --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;
 # ruby on bash
 alias .size='du -s'
 alias .include='include'
+
+# private aliases
+if [ -f ~/.home_aliases ]; then
+  source ~/.home_aliases
+fi
