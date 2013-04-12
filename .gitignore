@@ -18,3 +18,6 @@ Thumbs.db
 
 # Ignore .home_aliases
 .home_aliases
+
+# Ignore .hosts
+.hosts/*

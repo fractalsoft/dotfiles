@@ -1,4 +1,5 @@
 [
+  { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser"} },
   { "keys": ["ctrl+alt+k"], "command": "beautify_ruby" },
   { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" }
 ]
