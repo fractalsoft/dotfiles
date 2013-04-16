@@ -15,14 +15,14 @@ sudo aptitude install git-core
 
 ### Download dotfiles ###
 
-<code>
+<pre>
 cd ~
 git clone git://github.com/fractalsoft/dotfiles ~/.dotfiles
-</code>
+</pre>
 
 ### Install packages (as root) ###
 
-<code>ddd
+<code>
 ~/.dotfiles/sudo_install.sh
 </code>
 
@@ -47,7 +47,6 @@ in command line and press enter.
 ##### Use Sublime Text 2 Package Control #####
 1. Press <code>Ctrl + Alt + p</code>.
 2. Write word <code>install</code> in the input. Select <code>Package Control: Install Package</code>.
-
 3. Select interesting package and click.
 
 #### Chrome / Chromium ####
