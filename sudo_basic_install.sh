@@ -16,7 +16,7 @@ sudo aptitude install \
   libc6-dev \
   libcurl4-openssl-dev \
   libffi-dev \
-  libgdbm-dev
+  libgdbm-dev \
   libmagick++-dev \
   libmagickcore-dev \
   libmagickwand-dev \
@@ -34,13 +34,13 @@ sudo aptitude install \
   libxslt-dev \
   libxslt1-dev \
   libyaml-dev \
-  lynx
+  lynx \
   mc \
   ncurses-dev \
   nmap \
   openjdk-7-jre \
   openssh-client \
-  openssh-server
+  openssh-server \
   openssl \
   p7zip \
   pkg-config \
