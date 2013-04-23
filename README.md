@@ -71,4 +71,10 @@ We are on [Facebook](http://www.facebook.com/fractalsoft) and [Twitter](http://t
 We are using language [Ruby](http://www.ruby-lang.org/) and framework [Ruby on Rails](http://rubyonrails.org/).
 We like [Agile](http://agilemanifesto.org/), [Scrum](http://en.wikipedia.org/wiki/Scrum_(development)) and Lean Management.
 We love [KISS](http://en.wikipedia.org/wiki/KISS_principle) solutions and [don't repeat yourself](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself). 
-We recommend Ryan's [Rails Casts](http://railscasts.com/) and [Rails for Zombies](http://railsforzombies.org/).
+
+## Links ##
+- [Ruby](http://www.ruby-lang.org/) is a dynamic, open source programming language.
+- [Try Ruby](http://tryruby.org/) without installation.
+- [Ruby on Rails](http://rubyonrails.org/) is an open-source web framework.
+- [Rails Casts](http://railscasts.com/) are amazing to learn. Thank you, Ryan.
+- [Rails for Zombies](http://railsforzombies.org/) are fun and instructive.
