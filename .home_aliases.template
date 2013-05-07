@@ -1,2 +1,3 @@
 # Example:
-# alias foo='command'
+# alias c='cd ~/current'
+# alias rdb='rm db/development.sqlite3 db/test.sqlite3 db/schema.rb > /dev/null 2>&1; dbm; dbtp; rm db/schema.rb > /dev/null 2>&1'
