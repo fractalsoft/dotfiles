@@ -15,7 +15,7 @@ fi
 for f in $FILES
 do
   if [ ! -f ~/$f ]; then
-    ln -sF $SOURCE/$f ~/
+    ln -fsv $SOURCE/$f ~/
   fi
 done
 
