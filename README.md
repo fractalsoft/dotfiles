@@ -69,7 +69,7 @@ TODO
 ## About us ##
 We are on [Facebook](http://www.facebook.com/fractalsoft) and [Twitter](http://twitter.com/fractal_soft).
 We are using language [Ruby](http://www.ruby-lang.org/) and framework [Ruby on Rails](http://rubyonrails.org/).
-We like [Agile](http://agilemanifesto.org/), [Scrum](http://en.wikipedia.org/wiki/Scrum_(development) ) and Lean Management.
+We like [Agile](http://agilemanifesto.org/), [Scrum](http://en.wikipedia.org/wiki/Scrum_%28development%29) and Lean Management.
 We love [KISS](http://en.wikipedia.org/wiki/KISS_principle) solutions and [don't repeat yourself](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself). 
 
 ## Links ##
