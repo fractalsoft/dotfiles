@@ -1,0 +1,5 @@
+/msg NickServ identify PASSWORD
+/join #rubyonrails.pl
+/join #ruby.pl
+/join #rubyonrails
+/join #hackerspace-silesia

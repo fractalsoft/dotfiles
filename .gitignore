@@ -19,5 +19,8 @@ Thumbs.db
 # Ignore .home_aliases
 .home_aliases
 
+# Ignore .irc
+.irc
+
 # Ignore .hosts
 .hosts/*

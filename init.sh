@@ -2,10 +2,14 @@
 
 CURRENT=`pwd`
 SOURCE=.dotfiles
-FILES=".aliases .bash_functions .bash_login .bash_logout .bash_profile .bashrc .curlrc .gemrc .gitconfig .home_aliases .irbrc .profile .pryrc .railsrc .rvmrc .screenrc .zlogin .zprofile .zshenv .zshrc"
+FILES=".aliases .bash_functions .bash_login .bash_logout .bash_profile .bashrc .curlrc .gemrc .gitconfig .home_aliases .irbrc .irc .profile .pryrc .railsrc .rvmrc .screenrc .zlogin .zprofile .zshenv .zshrc"
 
 if [ ! -f $SOURCE/.home_aliases ]; then
   cp ~/$SOURCE/.home_aliases.template ~/$SOURCE/.home_aliases
+fi
+
+if [ ! -f $SOURCE/.irc ]; then
+  cp ~/$SOURCE/.irc.template ~/$SOURCE/.irc
 fi
 
 if [ ! -f $SOURCE/.gitconfig ]; then
