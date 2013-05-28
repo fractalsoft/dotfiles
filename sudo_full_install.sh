@@ -12,6 +12,9 @@ sudo aptitude install \
   gitk \
   gsql \
   guake \
+  links \
+  links2 \
+  midori \
   pidgin-skype \
   postgresql \
   postgresql-client \
