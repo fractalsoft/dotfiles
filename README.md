@@ -46,15 +46,22 @@ import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_p
 in command line and press enter.
 
 ##### Use Sublime Text 2 Package Control #####
-1. Press <code>Ctrl + Alt + p</code>.
+1. Press <code>Ctrl + Shift + p</code>.
 2. Write word <code>install</code> in the input. Select <code>Package Control: Install Package</code>.
 3. Select interesting package and click.
+
+##### Packages #####
+- RSpec
+- HTML5
+- CoffeeScript
 
 #### Chrome / Chromium ####
 
 ##### Plugins #####
 [Live Reload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei)
-
+[Ruby on Rails API Search](https://chrome.google.com/webstore/detail/ruby-on-rails-api-search/nbhhppofdccphcpbilanmljnlkmbgike)
+[RubyGems](https://chrome.google.com/webstore/detail/rubygems/baahnimlijmfpliafcnagehjfbkknlfj)
+[Pretty JSON](https://chrome.google.com/webstore/detail/pretty-json/ddngkjbldiejbheifcmnfmmfiniimbbg)
 
 ## Initialize ##
 
