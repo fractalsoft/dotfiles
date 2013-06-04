@@ -27,7 +27,7 @@ done
 DIRECTORY=.config/sublime-text-2/Packages/User
 if [ -d $DIRECTORY ]; then
   if command -v sublime-text-2 >/dev/null; then
-    ln -sF "$HOME/$SOURCE/$DIRECTORY/Preferences.sublime-settings" "$HOME/$DIRECTORY/"
-    ln -sF "$HOME/$SOURCE/$DIRECTORY/Default (Linux).sublime-keymap" "$HOME/$DIRECTORY/"
+    ln -fsv "$HOME/$SOURCE/$DIRECTORY/Preferences.sublime-settings" "$HOME/$DIRECTORY/"
+    ln -fsv "$HOME/$SOURCE/$DIRECTORY/Default (Linux).sublime-keymap" "$HOME/$DIRECTORY/"
   fi
 fi

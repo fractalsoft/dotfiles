@@ -42,6 +42,7 @@ alias a='android'
 alias autopull='watch -n 60 git pull'
 alias jsc='java -jar ~/.jars/js.jar'
 alias phantomjs='~/.jars/phantomjs'
+alias wrapper='rvm wrapper `cat .ruby-version`@`cat .ruby-gemset` bootup thin'
 
 # git
 alias commit='git commit'
