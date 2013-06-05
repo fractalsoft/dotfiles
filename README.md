@@ -65,6 +65,11 @@ in command line and press enter.
 - [W3C HTML5 & CSS3 Validator](https://chrome.google.com/webstore/detail/w3c-html5-css3-validator/kobpbiokkobnmnaefmpcodeeficgbfkg)
 - [Adblock Plus](https://chrome.google.com/webstore/detail/empty-title/cfhdojbkjhnklbpkdaibdccddilifddb)
 
+#### Thunderbird ####
+- [FireTray](https://addons.mozilla.org/en-us/firefox/addon/firetray/)
+- [Enigmail](http://www.enigmail.net/)
+- [Polski slownik poprawnej pisowni](https://addons.mozilla.org/pl/thunderbird/addon/polish-spellchecker-dictionary/)
+
 ## Initialize ##
 
 <pre>
