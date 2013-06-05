@@ -18,6 +18,7 @@ sudo aptitude install \
   pidgin-skype \
   postgresql \
   postgresql-client \
+  qt-sdk \
   skype \
   sqlitebrowser \
   sublime-text \
