@@ -92,5 +92,7 @@ We love [KISS](http://en.wikipedia.org/wiki/KISS_principle) solutions and [don't
 - [Ruby on Rails](http://rubyonrails.org/) is an open-source web framework.
 - [Rails Casts](http://railscasts.com/) are amazing to learn. Thank you, Ryan.
 - [Rails for Zombies](http://railsforzombies.org/) are fun and instructive.
+- [Better Specs](http://betterspecs.org/) is testing with examples.
+- [Testing Tuesday](http://blog.codeship.io/) are cool testing way.
 - [Rubular](http://rubular.com/) is a Ruby regular expression editor.
 - [CSS3, Please!](http://css3please.com/)
