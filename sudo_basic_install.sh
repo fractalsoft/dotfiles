@@ -24,6 +24,7 @@ sudo aptitude install \
   libmysqlclient-dev \
   libncurses5 \
   libncurses5-dev \
+  libopenmpi-dev \
   libpq-dev \
   libreadline6 \
   libreadline6-dev \
@@ -39,6 +40,7 @@ sudo aptitude install \
   ncurses-dev \
   nmap \
   openjdk-7-jre \
+  openmpi-bin \
   openssh-client \
   openssh-server \
   openssl \
