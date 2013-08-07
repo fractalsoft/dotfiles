@@ -2,3 +2,7 @@
 # alias c='cd ~/current'
 # alias rdb='rm db/development.sqlite3 db/test.sqlite3 db/schema.rb > /dev/null 2>&1; dbm; dbtp; rm db/schema.rb > /dev/null 2>&1'
 # alias tdb='rm db/test.sqlite3 > /dev/null 2>&1; dbm; dbtl; dbtp'
+# alias rbsimilar='find -name \*.rb | xargs flay'
+# alias rbcomplex='find -name \*.rb | xargs flog'
+# alias rbdesign='find -name \*.rb | xargs roodi'
+# alias rbsmells="reek . | grep -v ' 0 warnings'"

@@ -28,6 +28,9 @@ if [ -d ~/.nvm ]; then
 fi
 
 export RAILS_ENV=development
+export RUBY_GC_MALLOC_LIMIT=1000000000
+export RUBY_FREE_MIN=500000
+export RUBY_HEAP_MIN_SLOTS=40000
 
 # rbenv
 if [ -d ~/.rbenv ]; then
