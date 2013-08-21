@@ -6,3 +6,4 @@
 # alias rbcomplex='find -name \*.rb | xargs flog'
 # alias rbdesign='find -name \*.rb | xargs roodi'
 # alias rbsmells="reek . | grep -v ' 0 warnings'"
+# alias mac-mysql='sudo /usr/local/mysql/support-files/mysql.server'

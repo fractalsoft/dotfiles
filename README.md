@@ -63,12 +63,40 @@ in command line and press enter.
 - [RubyGems](https://chrome.google.com/webstore/detail/rubygems/baahnimlijmfpliafcnagehjfbkknlfj)
 - [Pretty JSON](https://chrome.google.com/webstore/detail/pretty-json/ddngkjbldiejbheifcmnfmmfiniimbbg)
 - [W3C HTML5 & CSS3 Validator](https://chrome.google.com/webstore/detail/w3c-html5-css3-validator/kobpbiokkobnmnaefmpcodeeficgbfkg)
+- [SASS Inspector](https://chrome.google.com/webstore/detail/sass-inspector/lkofmbmllpgfbnonmnenkiakimpgoamn)
 - [Adblock Plus](https://chrome.google.com/webstore/detail/empty-title/cfhdojbkjhnklbpkdaibdccddilifddb)
+- [Pocket](https://chrome.google.com/webstore/detail/pocket-formerly-read-it-l/niloccemoadcdkdjlinkgdfekeahmflj)
+
+
+#### Firefox ####
+
+##### Plugins #####
+- [LiveReload](http://livereload.com/)
+- [Pocket](https://addons.mozilla.org/en-US/firefox/addon/read-it-later/)
+- [QuickJS](https://addons.mozilla.org/en-US/firefox/addon/quickjs)
+- [Selenium IDE](http://release.seleniumhq.org/selenium-ide/2.3.0/selenium-ide-2.3.0.xpi)
+- [Selenium IDE: ScreenShot on Fail](https://addons.mozilla.org/en-US/firefox/addon/screenshot-on-fail-selenium/)
+- [Selenium IDE: Page Coverage](https://addons.mozilla.org/en-US/firefox/addon/page-coverage-selenium-ide/)
+- [Selenium IDE: Test Results](https://addons.mozilla.org/en-US/firefox/addon/test-results-selenium-ide/)
+- [Selenium IDE: Implicit Wait](https://addons.mozilla.org/en-US/firefox/addon/selenium-ide-implicit-wait/)
+- [Selenium IDE: Highlight Elements](https://addons.mozilla.org/en-US/firefox/addon/highlight-elements-selenium-id/)
+- [Selenium IDE: Test Suite Batch Converter](https://addons.mozilla.org/en-US/firefox/addon/test-suite-batch-converter-sel/)
+- [Selenium IDE: Power Debugger](https://addons.mozilla.org/en-US/firefox/addon/power-debugger-selenium-ide/)
+- [Selenium IDE: File Logging](https://addons.mozilla.org/en-US/firefox/addon/file-logging-selenium-ide/)
+- [Selenium IDE: Log Search Bar](https://addons.mozilla.org/en-US/firefox/addon/log-search-bar-selenium-ide/)
+- [Selenium IDE: Stored Variables Viewer](https://addons.mozilla.org/en-US/firefox/addon/stored-variables-viewer-seleni/)
+- [Selenium IDE: Flow Control](https://addons.mozilla.org/en-US/firefox/addon/flow-control/)
+- [Selenium IDE: WebDriver Backed Formatters](https://addons.mozilla.org/en-US/firefox/addon/webdriver-backed-formatters/)
+- [Selenium IDE: Separated Values Formatter](https://addons.mozilla.org/en-US/firefox/addon/separated-values-formatter/)
+
 
 #### Thunderbird ####
+
+##### Plugins #####
 - [FireTray](https://addons.mozilla.org/en-us/firefox/addon/firetray/)
 - [Enigmail](http://www.enigmail.net/)
 - [Polski slownik poprawnej pisowni](https://addons.mozilla.org/pl/thunderbird/addon/polish-spellchecker-dictionary/)
+
 
 ## Initialize ##
 
