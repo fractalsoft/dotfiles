@@ -16,6 +16,7 @@ sudo aptitude install \
   libc6-dev \
   libcurl4-openssl-dev \
   libffi-dev \
+  libfreeimage-dev \
   libgdbm-dev \
   libmagick++-dev \
   libmagickcore-dev \

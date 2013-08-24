@@ -1,17 +1,24 @@
 #!/bin/bash
 
-sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo aptitude update
 sudo aptitude install \
   byobu \
   chromium-browser \
   eclipse \
   eclipse-egit \
+  freeglut3-dev \
   gedit \
   gedit-plugins \
   gitk \
   gsql \
   guake \
+  libgl1-mesa-dev \
+  libopenal-dev \
+  libpango1.0-dev \
+  libsdl-ttf2.0-dev \
+  libsndfile-dev \
+  libxinerama-dev \
   links \
   links2 \
   midori \
