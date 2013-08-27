@@ -6,8 +6,6 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"RubyMotion Autocomplete"
 	],
 	"remember_open_files": true,
 	"rulers":
@@ -17,5 +15,6 @@
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false
 }
