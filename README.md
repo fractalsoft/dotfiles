@@ -64,6 +64,7 @@ in command line and press enter.
 - [Pretty JSON](https://chrome.google.com/webstore/detail/pretty-json/ddngkjbldiejbheifcmnfmmfiniimbbg)
 - [W3C HTML5 & CSS3 Validator](https://chrome.google.com/webstore/detail/w3c-html5-css3-validator/kobpbiokkobnmnaefmpcodeeficgbfkg)
 - [SASS Inspector](https://chrome.google.com/webstore/detail/sass-inspector/lkofmbmllpgfbnonmnenkiakimpgoamn)
+- [Quick Javascript Switcher](https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje)
 - [Adblock Plus](https://chrome.google.com/webstore/detail/empty-title/cfhdojbkjhnklbpkdaibdccddilifddb)
 - [Pocket](https://chrome.google.com/webstore/detail/pocket-formerly-read-it-l/niloccemoadcdkdjlinkgdfekeahmflj)
 
