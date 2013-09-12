@@ -62,11 +62,13 @@ in command line and press enter.
 - [Ruby on Rails API Search](https://chrome.google.com/webstore/detail/ruby-on-rails-api-search/nbhhppofdccphcpbilanmljnlkmbgike)
 - [RubyGems](https://chrome.google.com/webstore/detail/rubygems/baahnimlijmfpliafcnagehjfbkknlfj)
 - [Pretty JSON](https://chrome.google.com/webstore/detail/pretty-json/ddngkjbldiejbheifcmnfmmfiniimbbg)
+- [JavaScript Beautifier](https://chrome.google.com/webstore/detail/pnldlbhphmlbhgjbbjojpidlemceicco)
 - [W3C HTML5 & CSS3 Validator](https://chrome.google.com/webstore/detail/w3c-html5-css3-validator/kobpbiokkobnmnaefmpcodeeficgbfkg)
 - [SASS Inspector](https://chrome.google.com/webstore/detail/sass-inspector/lkofmbmllpgfbnonmnenkiakimpgoamn)
 - [Quick Javascript Switcher](https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje)
 - [Adblock Plus](https://chrome.google.com/webstore/detail/empty-title/cfhdojbkjhnklbpkdaibdccddilifddb)
 - [Pocket](https://chrome.google.com/webstore/detail/pocket-formerly-read-it-l/niloccemoadcdkdjlinkgdfekeahmflj)
+- [PDF Viewer](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm)
 
 
 #### Firefox ####
