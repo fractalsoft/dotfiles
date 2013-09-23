@@ -54,6 +54,8 @@ in command line and press enter.
 - RSpec
 - HTML5
 - CoffeeScript
+- BracketHighlither
+- GitGutter
 
 #### Chrome / Chromium ####
 
