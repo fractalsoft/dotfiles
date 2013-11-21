@@ -4,6 +4,8 @@ sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo aptitude update
 sudo aptitude install \
   byobu \
+  calibre \
+  catdoc \
   chromium-browser \
   eclipse \
   eclipse-egit \
@@ -22,6 +24,7 @@ sudo aptitude install \
   links \
   links2 \
   midori \
+  odt2txt \
   pidgin-skype \
   postgresql \
   postgresql-client \

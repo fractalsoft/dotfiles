@@ -78,6 +78,9 @@ in command line and press enter.
 - [Adblock Plus](https://chrome.google.com/webstore/detail/empty-title/cfhdojbkjhnklbpkdaibdccddilifddb)
 - [Pocket](https://chrome.google.com/webstore/detail/pocket-formerly-read-it-l/niloccemoadcdkdjlinkgdfekeahmflj)
 - [PDF Viewer](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm)
+- [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn)
+- [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+- [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
 
 
 #### Firefox ####
