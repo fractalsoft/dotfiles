@@ -81,6 +81,7 @@ in command line and press enter.
 - [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn)
 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 - [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
+- [Todoist](https://chrome.google.com/webstore/detail/todoist-to-do-list-and-ta/jldhpllghnbhlbpcmnajkpdmadaolakh)
 
 
 #### Firefox ####
@@ -103,6 +104,7 @@ in command line and press enter.
 - [Selenium IDE: Flow Control](https://addons.mozilla.org/en-US/firefox/addon/flow-control/)
 - [Selenium IDE: WebDriver Backed Formatters](https://addons.mozilla.org/en-US/firefox/addon/webdriver-backed-formatters/)
 - [Selenium IDE: Separated Values Formatter](https://addons.mozilla.org/en-US/firefox/addon/separated-values-formatter/)
+- [Todoist](https://addons.mozilla.org/en-US/firefox/addon/todoist/)
 
 
 #### Thunderbird ####
@@ -111,6 +113,9 @@ in command line and press enter.
 - [FireTray](https://addons.mozilla.org/en-us/firefox/addon/firetray/)
 - [Enigmail](http://www.enigmail.net/)
 - [Polski slownik poprawnej pisowni](https://addons.mozilla.org/pl/thunderbird/addon/polish-spellchecker-dictionary/)
+- [Lightning](https://addons.mozilla.org/pl/thunderbird/addon/lightning/)
+- [Todoist](https://addons.mozilla.org/pl/thunderbird/addon/todoist-for-thunderbird-to-/)
+- [Mail Merge](https://addons.mozilla.org/pl/thunderbird/addon/mail-merge/)
 
 
 #### MySQL (as root) ####

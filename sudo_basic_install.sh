@@ -47,6 +47,7 @@ sudo aptitude install \
   openssl \
   p7zip \
   pkg-config \
+  phantomjs \
   rar \
   screen \
   sqlite3 \
