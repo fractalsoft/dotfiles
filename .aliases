@@ -46,6 +46,7 @@ alias autopull='watch -n 60 git pull'
 alias jsc='java -jar ~/.jars/js.jar'
 alias phantomjs='~/.jars/phantomjs'
 alias wrapper='rvm wrapper `cat .ruby-version`@`cat .ruby-gemset` bootup thin'
+alias ducks='du -cks * | sort -rn | head'
 
 # git
 alias commit='git commit'

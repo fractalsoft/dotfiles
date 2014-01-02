@@ -7,6 +7,7 @@ sudo aptitude install \
   calibre \
   catdoc \
   chromium-browser \
+  diffpdf \
   eclipse \
   eclipse-egit \
   freeglut3-dev \
