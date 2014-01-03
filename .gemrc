@@ -4,6 +4,8 @@
 :sources:
 - http://gems.rubyforge.org
 - http://gems.github.com
+- https://s3.amazonaws.com/production.s3.rubygems.org/
+- https://api.rubygems.org/
 - https://rubygems.org/
 :update_sources: true
 :verbose: true
