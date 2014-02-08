@@ -12,8 +12,8 @@
 [push]
   default = current
 [branch]
-  autosetupmerge = true
-  # autosetuprebase = always
+  # autosetupmerge = true
+  autosetuprebase = always
 [branch "master"]
   remote = origin
   merge = refs/heads/master
@@ -21,7 +21,7 @@
   remote = origin
   merge = refs/heads/develop
 [core]
-#  editor = pico
+  # editor = pico
 [merge]
   tool = meld
 [user]
