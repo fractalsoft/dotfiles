@@ -5,8 +5,8 @@
 - http://rubygems.org/
 - http://gems.rubyforge.org
 - http://gems.github.com
-- https://s3.amazonaws.com/production.s3.rubygems.org/
-- https://api.rubygems.org/
+- http://s3.amazonaws.com/production.s3.rubygems.org/
+- http://api.rubygems.org/
 :update_sources: true
 :verbose: true
 benchmark: false
