@@ -84,6 +84,7 @@ in command line and press enter.
 - [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
 - [Todoist](https://chrome.google.com/webstore/detail/todoist-to-do-list-and-ta/jldhpllghnbhlbpcmnajkpdmadaolakh)
 - [DevDocs](https://chrome.google.com/webstore/detail/devdocs/mnfehgbmkapmjnhcnbodoamcioleeooe)
+- [Nanny](https://chrome.google.com/webstore/detail/nanny-for-google-chrome-t/cljcgchbnolheggdgaeclffeagnnmhno)
 
 
 #### Firefox ####
@@ -107,6 +108,7 @@ in command line and press enter.
 - [Selenium IDE: WebDriver Backed Formatters](https://addons.mozilla.org/en-US/firefox/addon/webdriver-backed-formatters/)
 - [Selenium IDE: Separated Values Formatter](https://addons.mozilla.org/en-US/firefox/addon/separated-values-formatter/)
 - [Todoist](https://addons.mozilla.org/en-US/firefox/addon/todoist/)
+- [LeechBlock](https://addons.mozilla.org/pl/firefox/addon/leechblock/)
 
 
 #### Thunderbird ####
