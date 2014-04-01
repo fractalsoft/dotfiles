@@ -40,6 +40,7 @@ sudo aptitude install \
   mc \
   ncurses-dev \
   nmap \
+  nodejs \
   openjdk-7-jre \
   openmpi-bin \
   openssh-client \
