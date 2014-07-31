@@ -38,6 +38,7 @@ sudo aptitude install \
   libyaml-dev \
   lynx \
   mc \
+  mediainfo \
   ncurses-dev \
   nmap \
   nodejs \
