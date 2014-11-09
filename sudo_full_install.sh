@@ -13,6 +13,7 @@ sudo aptitude install \
   freeglut3-dev \
   gedit \
   gedit-plugins \
+  gitg \
   gitk \
   gsql \
   guake \

@@ -62,6 +62,7 @@ in command line and press enter.
 - CoffeeScript
 - BracketHighlither
 - GitGutter
+- [Codeivate](http://www.codeivate.com/)
 
 #### Chrome / Chromium ####
 

@@ -17,3 +17,6 @@ MethodLength:
 ParameterLists:
   Max: 4
   CountKeywordArgs: true
+
+TrailingWhitespace:
+  Enabled: true
