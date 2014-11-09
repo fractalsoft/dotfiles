@@ -17,7 +17,6 @@ sudo aptitude install \
   gitk \
   gsql \
   guake \
-  # libgl1-mesa-dev \
   libopenal-dev \
   libpango1.0-dev \
   libsdl-ttf2.0-dev \
@@ -39,4 +38,5 @@ sudo aptitude install \
   tk-dev \
   yakuake
 
+# libgl1-mesa-dev \
 # libmagick++4 libmagickcore4 libmagickcore4-extra
