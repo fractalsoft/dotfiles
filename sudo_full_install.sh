@@ -16,7 +16,7 @@ sudo aptitude install \
   gitk \
   gsql \
   guake \
-  libgl1-mesa-dev \
+  # libgl1-mesa-dev \
   libopenal-dev \
   libpango1.0-dev \
   libsdl-ttf2.0-dev \
