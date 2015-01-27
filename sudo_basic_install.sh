@@ -8,6 +8,7 @@ sudo aptitude install \
   bison \
   build-essential \
   curl \
+  ctail \
   elinks-lite \
   git \
   git-core \
@@ -18,6 +19,7 @@ sudo aptitude install \
   libffi-dev \
   libfreeimage-dev \
   libgdbm-dev \
+  libimobiledevice-dev \
   libmagick++-dev \
   libmagickcore-dev \
   libmagickwand-dev \
@@ -26,16 +28,21 @@ sudo aptitude install \
   libncurses5 \
   libncurses5-dev \
   libopenmpi-dev \
+  libplist++-dev \
+  libplist-dev \
   libpq-dev \
   libreadline6 \
   libreadline6-dev \
   libsqlite3-dev \
   libssl-dev \
   libtool \
+  libusb-1.0-0-dev \
+  libusb-dev \
   libxml2-dev \
   libxslt-dev \
   libxslt1-dev \
   libyaml-dev \
+  lnav \
   lynx \
   mc \
   mediainfo \
@@ -48,14 +55,15 @@ sudo aptitude install \
   openssh-server \
   openssl \
   p7zip \
-  pkg-config \
   phantomjs \
+  pkg-config \
   rar \
   screen \
   sqlite3 \
   subversion \
   tcl-dev \
   unrar \
+  usbmuxd \
   vim \
   wget \
   zip \
@@ -63,3 +71,4 @@ sudo aptitude install \
   zlib1g-dev \
   zsh \
   zsh-lovers
+

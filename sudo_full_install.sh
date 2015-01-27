@@ -24,6 +24,7 @@ sudo aptitude install \
   libxinerama-dev \
   links \
   links2 \
+  logstalgia \
   midori \
   odt2txt \
   pidgin-skype \
