@@ -5,10 +5,10 @@ sudo aptitude install \
   autoconf \
   automake \
   bash \
+  bikeshed \
   bison \
   build-essential \
   curl \
-  ctail \
   elinks-lite \
   git \
   git-core \
@@ -23,7 +23,6 @@ sudo aptitude install \
   libmagick++-dev \
   libmagickcore-dev \
   libmagickwand-dev \
-  libmysql-ruby \
   libmysqlclient-dev \
   libncurses5 \
   libncurses5-dev \
