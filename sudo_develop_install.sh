@@ -10,6 +10,7 @@ sudo aptitude install \
   firefox \
   google-chrome-beta \
   opera \
-  npm
+  nodejs \
+  npm \
   tig
 sudo aptitude upgrade
