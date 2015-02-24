@@ -63,6 +63,10 @@ in command line and press enter.
 - BracketHighlither
 - GitGutter
 - [Codeivate](http://www.codeivate.com/)
+- [Emmet](http://docs.emmet.io/cheat-sheet)
+- Emmet Css Snippets
+- Color Highlither
+- SCSS
 
 #### Chrome / Chromium ####
 
