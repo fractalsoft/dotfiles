@@ -38,6 +38,27 @@ if [ -d ~/.rvm ]; then
   export PATH="$HOME/.rvm/bin:$PATH"
 fi
 
+# elixir
+if [ -d ~/opt/elixir ]; then
+  export PATH="$PATH:$HOME/opt/elixir/bin"
+fi
+
+# npm
+if [ -d ~/.npm-packages ]; then
+  export NPM_PACKAGES="$HOME/.npm-packages"
+  export PATH="$NPM_PACKAGES/bin:$PATH"
+  # export MANPATH="$NPM_PACKAGES/share/man:$(manpath)"
+  export NODE_PATH="$NPM_PACKAGES/lib/node_modules:$NODE_PATH"
+fi
+
+if [ -f /usr/bin/java ]; then
+  export JAVA_HOME="/usr"
+fi
+
+if [ -d ~/opt/android-sdk-linux ]; then
+  export PATH="$HOME/opt/android-sdk-linux/tools:$PATH"
+fi
+
 none='\033[0m'
 red='\033[0;31m'
 green='\033[0;32m'

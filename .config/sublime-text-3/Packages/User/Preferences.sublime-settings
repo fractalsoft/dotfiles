@@ -1,13 +1,15 @@
 {
 	"atomic_save": false,
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"default_encoding": "UTF-8",
-	"font_size": 12,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 15,
 	"hot_exit": true,
 	"ignored_packages":
 	[
 	],
+	"original_color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL) (Colorcoded).tmTheme",
 	"remember_open_files": true,
 	"rulers":
 	[
@@ -17,6 +19,5 @@
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true,
 	"update_check": true
 }
