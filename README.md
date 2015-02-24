@@ -87,6 +87,11 @@ in command line and press enter.
 - [DevDocs](https://chrome.google.com/webstore/detail/devdocs/mnfehgbmkapmjnhcnbodoamcioleeooe)
 - [Nanny](https://chrome.google.com/webstore/detail/nanny-for-google-chrome-t/cljcgchbnolheggdgaeclffeagnnmhno)
 - [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
+- [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp)
+- [MightyText - SMS Text Messaging](https://chrome.google.com/webstore/detail/mightytext-sms-text-messa/dkfhfaphfkopdgpbfkebjfcblcafcmpi)
+- [Chrome to Mobile](https://chrome.google.com/webstore/detail/chrome-to-mobile/idknbmbdnapjicclomlijcgfpikmndhd)
+- [WasteNoTime](https://chrome.google.com/webstore/detail/wastenotime/enebomhlllfaccbelnjhfgblnalofhch)
+- [1Password](https://chrome.google.com/webstore/detail/1password-password-manage/aomjjhallfgjeglblehebfpbcfeobpgk)
 
 
 #### Firefox ####
