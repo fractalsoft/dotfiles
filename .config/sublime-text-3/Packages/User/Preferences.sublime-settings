@@ -4,7 +4,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"default_encoding": "UTF-8",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 11,
+	"font_size": 9,
 	"hot_exit": true,
 	"ignored_packages":
 	[
