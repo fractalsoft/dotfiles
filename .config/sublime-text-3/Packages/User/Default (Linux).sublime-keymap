@@ -1,5 +1,7 @@
 [
   { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser"} },
   { "keys": ["ctrl+alt+k"], "command": "beautify_ruby" },
-  { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" }
+  { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+  { "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+  { "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} }
 ]
