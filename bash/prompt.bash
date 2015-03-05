@@ -21,10 +21,10 @@ export GIT_PS1_SHOWUNTRACKEDFILES=true
 
 user=$light_red
 at=$cyan
-host=$light_green
-path=$light_blue
+host=$light_blue
+path=$light_green
 branch=$yellow
 prompt=$green
-# \u - user | \h - host | \w - path | \$ - prompt (# for root)
+# \u - user | \h - host | \w - path | \$ - prompt (# for root) | \t - time
 export PS1="${debian_chroot:+($debian_chroot)}\[$user\]\u\[$at\]@\[$host\]\h\[$path\] \w\[$branch\]\$(declare -F __git_ps1 &>/dev/null && __git_ps1 \" (%s)\") \[$prompt\]\$\[$none\] "
 export PS2='> '
