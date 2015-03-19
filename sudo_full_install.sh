@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-add-repository ppa:tycho-s/ppa
 sudo aptitude update
 sudo aptitude install \
   byobu \
@@ -27,10 +28,12 @@ sudo aptitude install \
   logstalgia \
   midori \
   odt2txt \
+  pgadmin3 \
   pidgin-skype \
   postgresql \
   postgresql-client \
   qt-sdk \
+  qtile \
   skype \
   sqlitebrowser \
   sublime-text \
