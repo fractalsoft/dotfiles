@@ -30,7 +30,6 @@ sudo aptitude install \
   odt2txt \
   pgadmin3 \
   pidgin-skype \
-  postgresql \
   postgresql-client \
   qt-sdk \
   qtile \

@@ -56,6 +56,8 @@ sudo aptitude install \
   p7zip \
   phantomjs \
   pkg-config \
+  postgresql \
+  postgresql-contrib \
   rar \
   screen \
   sqlite3 \
