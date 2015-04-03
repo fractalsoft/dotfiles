@@ -13,5 +13,6 @@ sudo aptitude install \
   opera \
   nodejs \
   npm \
+  nscd \
   tig
 sudo aptitude upgrade

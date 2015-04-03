@@ -59,6 +59,7 @@ sudo aptitude install \
   postgresql \
   postgresql-contrib \
   rar \
+  redis-server \
   screen \
   sqlite3 \
   subversion \
