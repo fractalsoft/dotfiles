@@ -1,7 +1,7 @@
 #!/bin/bash
 
-sudo add-apt-repository ppa:webupd8team/sublime-text-3
-sudo apt-add-repository ppa:tycho-s/ppa
+sudo add-apt-repository ppa:webupd8team/sublime-text-3 -y
+sudo apt-add-repository ppa:tycho-s/ppa -y
 sudo aptitude update
 sudo aptitude install \
   byobu \
