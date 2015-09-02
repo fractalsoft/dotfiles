@@ -1,11 +1,14 @@
 # Example:
 # alias c='cd ~/current'
-# alias rdb='rm db/development.sqlite3 db/test.sqlite3 db/schema.rb > /dev/null 2>&1; dbm; dbtp; rm db/schema.rb > /dev/null 2>&1'
-# alias tdb='rm db/test.sqlite3 > /dev/null 2>&1; dbm; dbtl; dbtp'
 # alias rbsimilar='find -name \*.rb | xargs flay'
 # alias rbcomplex='find -name \*.rb | xargs flog'
 # alias rbdesign='find -name \*.rb | xargs roodi'
 # alias rbsmells="reek . | grep -v ' 0 warnings'"
 # alias mac-mysql='sudo /usr/local/mysql/support-files/mysql.server'
-# alias dbp='testing; rake parallel:drop; rake parallel:create; rake db:migrate; rake parallel:prepare'
-# alias spp='testing; rake parallel:spec'
+alias ab='ab -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"'
+alias fork-update='git fetch upstream && git merge upstream/master && git push'
+alias metrics='brakeman; rails_best_practices; rubocop'
+alias gitinspector='~/opt/gitinspector/gitinspector/gitinspector.py'
+alias minitest='ruby -I test:lib test/*'
+alias pg-drop='sudo -u postgres dropdb'
+alias pg-create='sudo -u postgres createdb -O $USER'
