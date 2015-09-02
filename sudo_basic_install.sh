@@ -12,6 +12,7 @@ sudo aptitude install \
   elinks-lite \
   git \
   git-core \
+  git-flow \
   htop \
   imagemagick \
   libc6-dev \

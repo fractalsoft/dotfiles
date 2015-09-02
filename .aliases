@@ -1,5 +1,5 @@
 # developer
-alias g='gem'
+alias g='git'
 alias b='bundle'
 alias be='bundle exec'
 alias bu='bundle update'
