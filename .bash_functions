@@ -116,3 +116,8 @@ function gg()
   local REGEXP=""
   git grep $REGEXP $(git rev-list --all)
 }
+
+function postgis_version()
+{
+  echo `psql $1 -tAc "select postgis_full_version();"`
+}

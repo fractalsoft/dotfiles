@@ -120,6 +120,7 @@ in command line and press enter.
 - [Selenium IDE: Separated Values Formatter](https://addons.mozilla.org/en-US/firefox/addon/separated-values-formatter/)
 - [Todoist](https://addons.mozilla.org/en-US/firefox/addon/todoist/)
 - [LeechBlock](https://addons.mozilla.org/pl/firefox/addon/leechblock/)
+- [Dust-Me Selectors](https://addons.mozilla.org/addon/dust-me-selectors)
 
 
 #### Thunderbird ####
