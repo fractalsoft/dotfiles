@@ -96,6 +96,8 @@ in command line and press enter.
 - [Chrome to Mobile](https://chrome.google.com/webstore/detail/chrome-to-mobile/idknbmbdnapjicclomlijcgfpikmndhd)
 - [WasteNoTime](https://chrome.google.com/webstore/detail/wastenotime/enebomhlllfaccbelnjhfgblnalofhch)
 - [1Password](https://chrome.google.com/webstore/detail/1password-password-manage/aomjjhallfgjeglblehebfpbcfeobpgk)
+- [Bootstrap Overlay](https://chrome.google.com/webstore/detail/bootstrap-overlay/gjphocehogcokailappncpobkngnlhpe)
+- [Foundation Overlay](https://chrome.google.com/webstore/detail/foundation-overlay/odknmbgidnpnihgllkebklpekefphpbn)
 
 
 #### Firefox ####
