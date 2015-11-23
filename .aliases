@@ -1,4 +1,5 @@
 # developer
+alias b='bundle'
 alias g='git'
 alias r='bundle exec rails'
 alias dev='export RAILS_ENV=development'
