@@ -45,7 +45,6 @@ sudo aptitude install \
   libxslt1-dev \
   libyaml-dev \
   lnav \
-  lolcat \
   lynx \
   mc \
   mediainfo \
