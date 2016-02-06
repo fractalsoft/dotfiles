@@ -10,6 +10,8 @@ sudo aptitude install \
   build-essential \
   curl \
   elinks-lite \
+  exfat-fuse \
+  exfat-utils \
   git \
   git-core \
   git-flow \
