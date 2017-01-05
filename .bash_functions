@@ -1,3 +1,13 @@
+#
+function run() {
+  number=$1
+  shift
+  for n in $(seq $number); do
+    echo "$n. of $number"
+    $@
+  done
+}
+
 # get current network info (ip, mac, netmask, broadcast, interface)
 function get_network()
 {
