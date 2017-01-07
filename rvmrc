@@ -3,3 +3,4 @@ export rvm_project_rvmrc=1
 export rvm_gemset_create_on_use_flag=1
 rvm_configure_env=(CFLAGS=-O3)
 rvm_auto_reload_flag=2
+rvm_install_on_use_flag=1
