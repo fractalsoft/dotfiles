@@ -15,12 +15,8 @@ alias commit='git commit'
 alias pull='git up'
 alias push='git push'
 alias stash='git stash'
-alias revert='git revert'
 
 # admin
-alias update='sudo aptitude update'
-alias upgrade='sudo aptitude upgrade'
-alias install='sudo aptitude install'
 alias repository='sudo add-apt-repository'
 alias getip='get_network ip'
 alias getmac='get_network mac'
