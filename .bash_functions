@@ -113,8 +113,17 @@ function mask2num()
 function hosts()
 {
   INTERFACES=`get_network interface`
-  NETMASK=`get_network netmask`
-  # NETMASK=`get_network netmask wlan0`
+  NETMASK=`get_network netmask eth1`
+  BITS=`mask2num $NETMASK`
+  GATEWAY=`gateway`
+  echo "It maybe take a while..."
+  nmap -sP $GATEWAY/$BITS
+}
+
+function hosts_wlan0()
+{
+  INTERFACES=`get_network interface`
+  NETMASK=`get_network netmask wlan0`
   BITS=`mask2num $NETMASK`
   GATEWAY=`gateway`
   echo "It maybe take a while..."
@@ -130,4 +139,13 @@ function gg()
 function postgis_version()
 {
   echo `psql $1 -tAc "select postgis_full_version();"`
+}
+
+function check_ip()
+{
+  ip=$1;
+  revdns=$(dig +short -x "$ip");
+  dns_a=$(dig +short A "$revdns");
+  echo -e -n "RevDNS: $revdns\nA: $dns_a\nStatus: ";
+  [[ "$ip" == "$dns_a" ]] && echo "OK" || echo "FAIL";
 }

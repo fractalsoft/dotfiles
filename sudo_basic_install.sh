@@ -1,7 +1,7 @@
 #!/bin/bash
 
-sudo aptitude update
-sudo aptitude install \
+sudo apt update
+sudo apt install \
   autoconf \
   automake \
   bash \
@@ -9,18 +9,21 @@ sudo aptitude install \
   bison \
   build-essential \
   curl \
-  elinks-lite \
+  elinks \
   exfat-fuse \
   exfat-utils \
+  gconf-service \
   git \
   git-core \
   git-flow \
   htop \
   imagemagick \
+  libappindicator1 \
   libc6-dev \
   libcurl4-openssl-dev \
   libffi-dev \
   libfreeimage-dev \
+  libgconf-2-4 \
   libgdbm-dev \
   libimobiledevice-dev \
   libmagick++-dev \
@@ -33,7 +36,7 @@ sudo aptitude install \
   libplist++-dev \
   libplist-dev \
   libpq-dev \
-  libreadline6 \
+  libreadline7 \
   libreadline6-dev \
   libsqlite3-dev \
   libssl-dev \
@@ -51,7 +54,7 @@ sudo aptitude install \
   ncurses-dev \
   nmap \
   nodejs \
-  openjdk-7-jre \
+  openjdk-9-jre \
   openmpi-bin \
   openssh-client \
   openssh-server \
