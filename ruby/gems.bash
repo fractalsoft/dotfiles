@@ -1,2 +1,3 @@
-gem install bundler rubocop rails_best_practices brakeman sandi_meter csscss rubycritic reek roodi flog flay bundler-audit scss-lint lolcat mailcatcher
+gem install bundler fasterer rubocop sandi_meter rubycritic reek roodi flog flay lolcat mailcatcher
+# gem install bundler rails_best_practices brakeman bundler-audit scss-lint
 

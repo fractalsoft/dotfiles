@@ -33,10 +33,11 @@ sudo aptitude install \
   libplist++-dev \
   libplist-dev \
   libpq-dev \
-  libreadline6 \
+  libreadline7 \
   libreadline6-dev \
   libsqlite3-dev \
   libssl-dev \
+  libssp-uuid-dev \
   libtool \
   libusb-1.0-0-dev \
   libusb-dev \
@@ -51,7 +52,7 @@ sudo aptitude install \
   ncurses-dev \
   nmap \
   nodejs \
-  openjdk-7-jre \
+  openjdk-9-jre \
   openmpi-bin \
   openssh-client \
   openssh-server \
@@ -75,5 +76,7 @@ sudo aptitude install \
   zlib1g \
   zlib1g-dev \
   zsh \
+  libappindicator1 \
+  gconf-service \
+  libgconf-2-4 \
   zsh-lovers
-

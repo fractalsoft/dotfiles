@@ -1,16 +1,3 @@
-if [ -f ~/.bashrc ]; then
-  source ~/.bashrc
-fi
-
-if [ -f ~/.profile ]; then
-  source ~/.profile
-fi
-
-# User specific environment and startup programs
-if [ -d "$HOME/bin" ]; then
-  PATH="$PATH:$HOME/bin"
-fi
-# BASH_ENV=$HOME/.bashrc
-# USERNAME=""
-# export USERNAME BASH_ENV
-export PATH
+[[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
+[[ -s "$HOME/.ruby-conf.sh" ]] && source "$HOME/.ruby-conf.sh"
+[[ -s "$HOME/.tmux-conf.sh" ]] && source "$HOME/.tmux-conf.sh"
