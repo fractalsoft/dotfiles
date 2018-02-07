@@ -114,7 +114,6 @@ function hosts()
 {
   INTERFACES=`get_network interface`
   NETMASK=`get_network netmask eth1`
-  # NETMASK=`get_network netmask wlan0`
   BITS=`mask2num $NETMASK`
   GATEWAY=`gateway`
   echo "It maybe take a while..."
