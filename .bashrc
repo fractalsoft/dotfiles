@@ -43,6 +43,13 @@ if [ -d ~/opt/elixir ]; then
   export PATH="$PATH:$HOME/opt/elixir/bin"
 fi
 
+# go
+if [ -d ~/opt/go ]; then
+  export GOROOT=$HOME/opt/go
+  # export GOPATH=$HOME/opt/go
+  export PATH="$PATH:$GOROOT/bin"
+fi
+
 # npm
 if [ -d ~/.npm-packages ]; then
   export NPM_PACKAGES="$HOME/.npm-packages"
