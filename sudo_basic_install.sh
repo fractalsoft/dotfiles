@@ -40,7 +40,6 @@ sudo apt install \
   libreadline-dev \
   libsqlite3-dev \
   libssl-dev \
-  libssp-uuid-dev \
   libtool \
   libusb-1.0-0-dev \
   libusb-dev \
