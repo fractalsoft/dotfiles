@@ -37,7 +37,7 @@ sudo apt install \
   libplist-dev \
   libpq-dev \
   libreadline7 \
-  libreadline6-dev \
+  libreadline-dev \
   libsqlite3-dev \
   libssl-dev \
   libssp-uuid-dev \
@@ -45,14 +45,12 @@ sudo apt install \
   libusb-1.0-0-dev \
   libusb-dev \
   libxml2-dev \
-  libxslt-dev \
   libxslt1-dev \
   libyaml-dev \
   lnav \
   lynx \
   mc \
   mediainfo \
-  ncurses-dev \
   nmap \
   nodejs \
   openjdk-9-jre \
