@@ -6,8 +6,6 @@ alias rr='bundle exec rake routes'
 alias h='curl -I'
 alias mx='host -t mx'
 alias a='android'
-alias jsc='java -jar ~/.jars/js.jar'
-alias phantomjs='~/.jars/phantomjs'
 alias ducks='du -cks * | sort -rn | head'
 
 # git
@@ -18,9 +16,6 @@ alias stash='git stash'
 
 # admin
 alias repository='sudo add-apt-repository'
-alias getip='get_network ip'
-alias getmac='get_network mac'
-alias getmask='get_network netmask'
 alias cpuinfo='cat /proc/cpuinfo'
 alias meminfo='cat /proc/meminfo'
 alias ss='sudo service'
@@ -33,10 +28,9 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
 alias get='wget --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"'
-
-# ruby on bash
-alias .size='du -s'
-alias .include='include'
+alias cp_pwd='pwd | xclip -selection clipboard'
+alias go_pwd='cd `xclip -out -selection clipboard`'
+alias remove-x='chmod -R -x+X *'
 
 # web developer
 # mirror http://...
